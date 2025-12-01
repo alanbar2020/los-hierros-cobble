@@ -1,0 +1,413 @@
+{
+    "minecraft_version": "1.20.1",
+    "mods": [
+        {
+            "file": "accessories-fabric-1.1.0-beta.52+1.21.1.jar",
+            "sha256": "a5e4c69263f529e0c4fb893597f455a7fc7eb5ec98eab5e58e116f52fe1676c4"
+        },
+        {
+            "file": "AdvancedLootInfo-fabric-1.21.1-1.5.2.jar",
+            "sha256": "a5484fb70d567a1402078058fe5717b2257332a53aec29e1e8b18e9c6a22b134"
+        },
+        {
+            "file": "Almanac-1.21.1-2-fabric-1.5.0.jar",
+            "sha256": "e6d491f8c117ef66817e25648a236a98ed61fcce36ab8f621b4e83aedc8777c5"
+        },
+        {
+            "file": "AmbientEnvironment-fabric-1.21.1-18.0.0.2.jar",
+            "sha256": "7db6fc039872bf0b5743aab810e5b25a2c485bb1afe5adda6f4103ab4028f5be"
+        },
+        {
+            "file": "appleskin-fabric-mc1.21-3.0.6.jar",
+            "sha256": "9a19cec1294b1bc708392a08e6926dcb85d7378ec5ad909a4b6fcb8bc3bfeaa2"
+        },
+        {
+            "file": "architectury-13.0.8-fabric.jar",
+            "sha256": "10cbbb6f5f96a2f1853b0cc68428424cec8903409517b299ff02350756b6399d"
+        },
+        {
+            "file": "balm-fabric-1.21.1-21.0.55.jar",
+            "sha256": "58f91b458da85ee973c6cc63c618b4856144cf726d662cf605b9aafb480f127d"
+        },
+        {
+            "file": "BetterAdvancements-Fabric-1.21.1-0.4.3.21.jar",
+            "sha256": "7542d8f2f280fad5698f114ab28c28300e52bdcf80622f3c104b96434162fcf5"
+        },
+        {
+            "file": "BetterPingDisplay-Fabric-1.21.1-1.1.1.jar",
+            "sha256": "6477ddd7bf15d4e09562f165e79359c9c8be058f9470ea61224111a6a6a5a0b0"
+        },
+        {
+            "file": "BetterThirdPerson-Fabric-1.21-1.9.0.jar",
+            "sha256": "f9ec9dc6508b20d32a3c770ecc77641e8f87c98e298d58e2757a6ef14abbb457"
+        },
+        {
+            "file": "BHMenu-Fabric-1.21-2.5.3.jar",
+            "sha256": "d1430e0b8d661b1b7085e1146053057852049f12fa0f6bf87197c41a1264dd56"
+        },
+        {
+            "file": "bookshelf-fabric-1.21.1-21.1.78.jar",
+            "sha256": "21dc2d6b282663fd783295fb7de1858b416d80de62b16c6a33cc6591e750923f"
+        },
+        {
+            "file": "bwncr-fabric-1.21.1-3.20.3.jar",
+            "sha256": "2351eecb58748bb6a392feae5a2906a3a20d33a0276e06ae2e21761a276f4984"
+        },
+        {
+            "file": "cardinal-components-api-6.1.3.jar",
+            "sha256": "302a8a4bc2e34cbffaf61af75ab5de47c06bfa159436665870ae61092b0f69a2"
+        },
+        {
+            "file": "cherishedworlds-fabric-10.1.1+1.21.1.jar",
+            "sha256": "d1dd32fa91377518773d01c57b3a91d0f4e9c1c44540efff1e4393064d8faad3"
+        },
+        {
+            "file": "citresewn-1.2.2+1.21.jar",
+            "sha256": "27f960a57597539cb8dfdd7a926268a123177322b14bea113415a56825c01776"
+        },
+        {
+            "file": "cloth-config-15.0.140-fabric.jar",
+            "sha256": "33894e95da3af59014b39d126586d5241e07ea39f8618763e30dab637405f95f"
+        },
+        {
+            "file": "Clumps-fabric-1.21.1-19.0.0.1.jar",
+            "sha256": "49e406cb2872e24a2d2dbe461b93f0c8fbee1748d14c2a941e54f785e3a1e1a7"
+        },
+        {
+            "file": "craftingtweaks-fabric-1.21.1-21.1.6.jar",
+            "sha256": "35dce5e8de354d1649dfcb82779fdeb812c8d85ec84a8bf3f69eda101340aa5e"
+        },
+        {
+            "file": "CraftPresence-2.7.0+1.21.1-fabric.jar",
+            "sha256": "33a69d4eaab476271ca286c663e21a330c2c93915af4f4bbd368e21db295dda9"
+        },
+        {
+            "file": "dynamiccrosshair-9.10+1.21.1-fabric.jar",
+            "sha256": "962a58083336b6ecb27041cfe2635999177c2c034120576837114ee86fe44895"
+        },
+        {
+            "file": "emi-1.1.22+1.21.1+fabric.jar",
+            "sha256": "6da00a8d13cad6e55abaa3032d80ff4d1d1520146b683f1ca7c029e01718fe05"
+        },
+        {
+            "file": "EMIProfessions-fabric-1.21.1-1.0.3.jar",
+            "sha256": "b4c5e157097c4962c54a2cd1aba3bd0806dfff344e9ca695ebf243e7747c9dc8"
+        },
+        {
+            "file": "emi_enchanting-0.1.2+1.21.jar",
+            "sha256": "0b74d6027d8a2ee12d011c5e71701a1e05fdf83e19afc6bb6d2abb8fdd274ad0"
+        },
+        {
+            "file": "emi_ores-1.2+1.21.1+fabric.jar",
+            "sha256": "c90d4edcc91eea15e560e36f832fb09801962d10df941c3ab750aedf6bc9e77c"
+        },
+        {
+            "file": "enchdesc-fabric-1.21.1-21.1.9.jar",
+            "sha256": "63793dd3cd511805eea019c4381e6636d7775331390c8d5b3551bebd90446e3c"
+        },
+        {
+            "file": "enhanced_attack_indicator-1.1.0+1.21.jar",
+            "sha256": "974778b105c615cdbdd4ed19873ed744d3f1b398d6aeb1d3c73306763e53d2ad"
+        },
+        {
+            "file": "entityculling-fabric-1.9.3-mc1.21.1.jar",
+            "sha256": "5023591009bb7c83f5c55f9da82097f01e9e5251fa3fee5c89fdac7b4876df10"
+        },
+        {
+            "file": "entity_model_features_1.21-fabric-3.0.7.jar",
+            "sha256": "136e5ece2627ac7095778f520865e8027d4e68b14c9a2a25619d5b48a770d76d"
+        },
+        {
+            "file": "entity_texture_features_1.21-fabric-7.0.6.jar",
+            "sha256": "3674b28fa348a94f54f7c7145e9d3fcbc9adde96fc620c11840f6ed097785aa0"
+        },
+        {
+            "file": "ExplorersCompass-1.21.1-2.2.5-fabric.jar",
+            "sha256": "c1cf034aed2d44cbb44add44b2f0f543143fcee5b019bd783de2e0adf00d3bce"
+        },
+        {
+            "file": "fabric-api-0.116.7+1.21.1.jar",
+            "sha256": "08018cc48c97415a38016a00dbd5a2c7a460ba6b7a051690a8cb3dbb5e8482a4"
+        },
+        {
+            "file": "fabric-language-kotlin-1.13.7+kotlin.2.2.21.jar",
+            "sha256": "77951963edd5d7d37ee4f174e37d46a871e45b973426f3b49d6725c819b4b8f2"
+        },
+        {
+            "file": "fallingleaves-1.17.1+1.21.1.jar",
+            "sha256": "67e2071d6c25e2638573e6ee91a146b77e38d77edddbb26f45006ab878ebca77"
+        },
+        {
+            "file": "fancymenu_fabric_3.8.1_MC_1.21.1.jar",
+            "sha256": "32f21b601ce12c7c511752d207a73b077cb19b8e24b0eb3d6e0440a299bc5743"
+        },
+        {
+            "file": "ferritecore-7.0.2-hotfix-fabric.jar",
+            "sha256": "e3fae8e321474a35e94f9bb09eafd0440ce0fe98f4aebbc067e392889700a4fa"
+        },
+        {
+            "file": "gravestones-1.2.6+1.21.1+A.jar",
+            "sha256": "386e3155460dd70cf4cdc2ab154ad3bc0aec1b1b3102590f08d9c910ecbd3f08"
+        },
+        {
+            "file": "ImmediatelyFast-Fabric-1.6.7+1.21.1.jar",
+            "sha256": "e623bc83327da113a37008ce6ddea34db57db409304b030384826bec645f8e32"
+        },
+        {
+            "file": "InventoryProfilesNext-fabric-1.21.1-2.2.1.jar",
+            "sha256": "0fa29ecd95e07fc5d9c84558df8c06e3e8bfd5237e3d0adeaafbf19c9c6a06e3"
+        },
+        {
+            "file": "InvMove-0.9.1+1.21.1-Fabric.jar",
+            "sha256": "74e8351ad5073d21c91bc9c5f5a8e92055384c72dd1d5dd0dde31e03dc3b9820"
+        },
+        {
+            "file": "InvMoveCompats-0.5.0+1.21.8-Fabric.jar",
+            "sha256": "da6bc02cadc8c1180f4b804cd84cb33e33f8e358422265a41e71daed64b2d32b"
+        },
+        {
+            "file": "iris-fabric-1.8.8+mc1.21.1.jar",
+            "sha256": "b5ad39a6cb113ca0a1765f06689f9f4b29ccd0c81247de90b06c42f5da1092f5"
+        },
+        {
+            "file": "Jade-1.21.1-Fabric-15.10.2.jar",
+            "sha256": "51f57ee9f6eeffce9cbf9abe0c68c23105c6ffa7215a3b75240117799d897398"
+        },
+        {
+            "file": "jeed-1.21-2.3.1-fabric.jar",
+            "sha256": "e2c2964ed8ca1ffef46b7089617a3c39ecc1ed77a72572e79b6a5d265d48207f"
+        },
+        {
+            "file": "jei-1.21.1-fabric-19.25.1.332.jar",
+            "sha256": "4a9467a9df628033326a089eb2e38a9950a215f97f6e3668d6d99a85d06d3450"
+        },
+        {
+            "file": "konkrete_fabric_1.9.9_MC_1.21.jar",
+            "sha256": "06e912f99d59bf81c0676f1db936150ad4443d5674f59b3c55604540ba620841"
+        },
+        {
+            "file": "krypton-0.2.8.jar",
+            "sha256": "94f195819b24e5da64effdc9da15cdd84836cc75e8ff0fd098bab6bc2f49e3fe"
+        },
+        {
+            "file": "lambdynamiclights-4.8.6+1.21.1 - copia.jar",
+            "sha256": "add1bc72fcda8db17fc798f79cfbd781038bf6cac808a473521fa76e38de7b6c"
+        },
+        {
+            "file": "lambdynamiclights-4.8.6+1.21.1.jar",
+            "sha256": "add1bc72fcda8db17fc798f79cfbd781038bf6cac808a473521fa76e38de7b6c"
+        },
+        {
+            "file": "language-reload-1.7.5+1.21.1.jar",
+            "sha256": "ce0905de8bdcaf50688d80c84374d23b010fd8ded0cfa2c6b0f8b30469183b64"
+        },
+        {
+            "file": "letmedespawn-1.21.x-fabric-1.5.0.jar",
+            "sha256": "abeac43f78a915cfa0c855fa945f07601a1509064079c4c8640c7105ba6ac554"
+        },
+        {
+            "file": "libIPN-fabric-1.21.1-6.6.1.jar",
+            "sha256": "fb7c18798507735e61680a8351bf084b8365048c89314cdfa45c731d3b2538d5"
+        },
+        {
+            "file": "lithium-fabric-0.15.1+mc1.21.1.jar",
+            "sha256": "aaa15b94d06486547a36c9c7cb4de0a4ab75dc40e0d9efc33f589251ca8260e0"
+        },
+        {
+            "file": "logical_zoom-0.0.26.jar",
+            "sha256": "0ac07842dbfc188eb80b4a6c9c719fc3a565379c07a5cebd255fc71ae3ad100b"
+        },
+        {
+            "file": "make_bubbles_pop-0.3.0-fabric-mc1.19.4-1.21.jar",
+            "sha256": "42daaf9bf8070827cf03deb492a312cac6a3f002f4a4736d9a4c956726a8ced1"
+        },
+        {
+            "file": "mega_showdown-fabric-1.4.2+1.7.1+1.21.1.jar",
+            "sha256": "da71f244c903a92d05b37bfbc7488d69d2cb137c6e0e3ae67c95d263f17f1ede"
+        },
+        {
+            "file": "melody_fabric_1.0.10_MC_1.21.jar",
+            "sha256": "223ab859b9cc246d8d6e5cec5e734f97be3aac545de6cda7743750262428ed83"
+        },
+        {
+            "file": "modmenu-11.0.3.jar",
+            "sha256": "a45a12807a29f0e5b23b87cd380fd6fe8589ffe4a665cadce234168a4dabe428"
+        },
+        {
+            "file": "monsters-in-the-closet-1.0.3+1.21.jar",
+            "sha256": "c1be9f55852b2e30d10b0650f9d3b4719a820ca5d953972fe2c4a140037ead16"
+        },
+        {
+            "file": "mru-1.0.19+LTS+1.21.1+fabric.jar",
+            "sha256": "466a5d7cba09f17165614541bdc3aca0a6c587c4e6df5328af4788c58c7e39a3"
+        },
+        {
+            "file": "netherportalfix-fabric-1.21.1-21.1.3.jar",
+            "sha256": "c6589e3a95ee6dbced2442682caeec53789999bc6a2883f9919e039b1bee98c6"
+        },
+        {
+            "file": "notenoughanimations-fabric-1.10.6-mc1.21.1 - copia.jar",
+            "sha256": "85e9c93b7abcb314a8bcde430254d9f0bbcc67831587b990b37e244b9f0f59a7"
+        },
+        {
+            "file": "notenoughanimations-fabric-1.10.6-mc1.21.1.jar",
+            "sha256": "85e9c93b7abcb314a8bcde430254d9f0bbcc67831587b990b37e244b9f0f59a7"
+        },
+        {
+            "file": "OpenLoader-fabric-1.21.1-21.1.5.jar",
+            "sha256": "95b48a53035f1b7193916b8202637a582d6680ebdcdb0ce6a0c6c0427a443483"
+        },
+        {
+            "file": "owo-lib-0.12.15.4+1.21.jar",
+            "sha256": "825180ce17bc012fb450653b14df9f32479dcdd073fc3f133bb47462f5a63cec"
+        },
+        {
+            "file": "particlerain-4.0.0-beta.3+1.21.1-fabric.jar",
+            "sha256": "d4a5c1ca224f44098469ab1f3343ef2a7d27a8fc6272a0fb8f92a62b3f3ea272"
+        },
+        {
+            "file": "particular-1.21.1-Fabric-1.1.2.jar",
+            "sha256": "932e9f48506c6258f9215a243049076fbc9e72c3f42284115d59f65696c20be8"
+        },
+        {
+            "file": "pneumonocore-1.2.0+1.21.1.jar",
+            "sha256": "df3a0c9e88adb61824ab2d636cb1e4258a7d10de7147f0c55be1a62c397f1e42"
+        },
+        {
+            "file": "PresenceFootsteps-1.10.2+1.21.jar",
+            "sha256": "d648875b2ce624cade82f4d16adf7ae27b301228d43be0134413d44b3551433e"
+        },
+        {
+            "file": "prickle-fabric-1.21.1-21.1.11.jar",
+            "sha256": "d6d639078aecb72770f287d8253e4634114e2536ac9a2ad6ec5f442eb27dd07f"
+        },
+        {
+            "file": "reeses-sodium-options-fabric-1.8.3+mc1.21.4.jar",
+            "sha256": "b42fc0424050f076c8e1f77b7549e48ec6e07605fbf868ed5d0ef47848665dd2"
+        },
+        {
+            "file": "shulkerboxtooltip-fabric-5.1.8+1.21.1.jar",
+            "sha256": "5d397ed1eabc7b6b77e2ca09565c6a01427dc7984fb39a46f560c286c1ab8961"
+        },
+        {
+            "file": "sodium-extra-fabric-0.6.0+mc1.21.1.jar",
+            "sha256": "1a7434e444c851d82efbe3d5a8fd2dbb142e9bdf0012d7c6a0e4741c641b1a2d"
+        },
+        {
+            "file": "sodium-fabric-0.6.13+mc1.21.1.jar",
+            "sha256": "e04599514d88e41765f710eeba59e3814909833396bc11b977f48fc2e7e50353"
+        },
+        {
+            "file": "sodium-shadowy-path-blocks-fabric-4.0.0.jar",
+            "sha256": "659e5778bebbf71d81c05769d5974c6ccbad74b2ec6a547e3d737808b8e11587"
+        },
+        {
+            "file": "sodiumextras-fabric-1.0.8-1.21.1.jar",
+            "sha256": "f919c512fa7c774e14e7a96502fb7a7e19bb7843df7275390e6fa8e7e090004c"
+        },
+        {
+            "file": "sodiumleafculling-fabric-1.0.1-1.21.1.jar",
+            "sha256": "aa8f0db9eb8f2bbe06d4713dc42e1d0d362ed14a33b85a4f7917202bb7b65041"
+        },
+        {
+            "file": "sodiumoptionsapi-fabric-1.0.10-1.21.1.jar",
+            "sha256": "59b8de5a85b964b9fb9ff83042240ca8842ea77e430d89c69af57dfdff1acc29"
+        },
+        {
+            "file": "sounds-2.4.17+lts+1.21.1-fabric.jar",
+            "sha256": "034f97d5e787202434f584f0ee3625943644aefe76564a5e24ff32bbe6c3faf4"
+        },
+        {
+            "file": "stendhal-1.4.1-1.21.jar",
+            "sha256": "24af53ab62c92a2db09434a0ce3a6361208f433f42a8929d847171fa4ca870dd"
+        },
+        {
+            "file": "swingthrough-1.0.5+1.21.jar",
+            "sha256": "0c29ce4166261f3f995a3a9c47753050983662a4086846ed524a1fe2ecd13353"
+        },
+        {
+            "file": "tipsmod-fabric-1.21.1-21.1.3.jar",
+            "sha256": "cafa871da36d7dcf191d7f63f8cb3956df8e74fdf2d734269d84062c76c03264"
+        },
+        {
+            "file": "tooltipfix-1.1.1-1.20.jar",
+            "sha256": "50c6c45d16c62b0d9a832692b7f6250d5561f0b28bf7729d8ab25fe1162c90d2"
+        },
+        {
+            "file": "translucent-glass-0.2.1.jar",
+            "sha256": "8a159c8cbaeca0c15f6a444adce503eee2ce3835530a156be7c69820c212dae4"
+        },
+        {
+            "file": "travelersbackpack-fabric-1.21.1-10.1.29.jar",
+            "sha256": "315040b1f3845d6079b266fef90801870df52ad16e21ab029cb1857b29d2e9dc"
+        },
+        {
+            "file": "UniLib-1.2.0+1.21.1-fabric.jar",
+            "sha256": "325809677f98bf023ba75847f307907ef79b01fe2822199e66cbe228f70ea5ba"
+        },
+        {
+            "file": "visuality-0.7.7+1.21.jar",
+            "sha256": "c10fe78103b659259161330be2f6f2123dedf5f2f00cd243225a88d5ffa8c372"
+        },
+        {
+            "file": "wakes-0.2.2-1.21.jar",
+            "sha256": "d9a32b819d2052870b0ff091b93b9e79ab42cec96251d67935a3dca9bbbd9817"
+        },
+        {
+            "file": "XaerosWorldMap_1.39.12_Fabric_1.21.jar",
+            "sha256": "91ee2741c352d137a535b5c33eeb19272ffdd44784a9c815243484d293eb9173"
+        },
+        {
+            "file": "Xaeros_Minimap_25.2.10_Fabric_1.21.jar",
+            "sha256": "0a4352f406baa851b1c0e1ab85595449c3c277b5abb239e5bb054bacb0a7c525"
+        },
+        {
+            "file": "yet_another_config_lib_v3-3.7.1+1.21.1-fabric.jar",
+            "sha256": "914f999e53a81cb37358ad9521422ddeeb293d399f0e4f1a6db3d946c1d80ad2"
+        },
+        {
+            "file": "yosbr-0.1.2.jar",
+            "sha256": "db4c744fd71f5617639cb0fdff72378b08d2852004f4045c62090de1bf53afcb"
+        }
+    ],
+    "resourcepacks": [
+        {
+            "file": "Better-Leaves-9.4.zip",
+            "sha256": "e23bdbc29db70b41e3f561dfce43dfc97b2bce3fc8857d5aae08d8557111190d"
+        },
+        {
+            "file": "Faithful 64x - Release 6.zip",
+            "sha256": "ba28248289cf0ca2b4021cb90de1e1712dc1d7079f2fe1d250cb03b494c5f79f"
+        },
+        {
+            "file": "PathToLegends-1.1.1-release.zip",
+            "sha256": "156e42b8fa35bf30e21a73af1f1bbed66f5ed54085aa8beb6544190aa35e3f59"
+        }
+    ],
+    "shaderpacks": [
+        {
+            "file": "ComplementaryReimagined_r5.5.1.zip",
+            "sha256": "20897248a5fe91b33bf7fd4b75959c30aa2003df195297979a410ee37d3bb62f"
+        },
+        {
+            "file": "ComplementaryReimagined_r5.6.1.zip",
+            "sha256": "33153747d25fbee470acb42ccf4f26b03cc551bb900d4c6d3389b5500dd84839"
+        },
+        {
+            "file": "ComplementaryUnbound_r5.5.1.zip",
+            "sha256": "61d133b24b6a92e46a3d7df791bb2ff163bbba10eed59df979b9bd727c24fbaf"
+        },
+        {
+            "file": "Insanity-Shader-Universal-v1.650.zip",
+            "sha256": "ed0ece7500307584a7bba09a872fde39df78fcfa1b90f3e4fac36da60e96a511"
+        },
+        {
+            "file": "MakeUp-UltraFast-9.3a.zip",
+            "sha256": "2f04fec164d51340008fcaf9527cd15dd6517d3452e0154cf8c50c0b3ba7e2f4"
+        },
+        {
+            "file": "Solas Shader V3.1b.zip",
+            "sha256": "942003cb5758edba3c9adb8a893be3b125645546bd1ba1d37ca379db4c47f6f8"
+        }
+    ]
+}
