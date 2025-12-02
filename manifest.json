@@ -1,9 +1,13 @@
 {
-    "minecraft_version": "1.20.1",
+    "minecraft_version": "1.21.1",
     "mods": [
         {
             "file": "accessories-fabric-1.1.0-beta.52+1.21.1.jar",
             "sha256": "a5e4c69263f529e0c4fb893597f455a7fc7eb5ec98eab5e58e116f52fe1676c4"
+        },
+        {
+            "file": "accessories_compat_layer-fabric-0.1.10+1.21.1.jar",
+            "sha256": "ea2bdfe9a0f7df48984734e4e247099bcf7d91600ed5928c4ff65dcc40beaccf"
         },
         {
             "file": "AdvancedLootInfo-fabric-1.21.1-1.5.2.jar",
@@ -24,6 +28,10 @@
         {
             "file": "architectury-13.0.8-fabric.jar",
             "sha256": "10cbbb6f5f96a2f1853b0cc68428424cec8903409517b299ff02350756b6399d"
+        },
+        {
+            "file": "athena-fabric-1.21-4.0.2.jar",
+            "sha256": "998c92dc8e01999f3e6870c94102aa73d755dc56f17a7d36c67f79178f836ffb"
         },
         {
             "file": "balm-fabric-1.21.1-21.0.55.jar",
@@ -62,6 +70,10 @@
             "sha256": "d1dd32fa91377518773d01c57b3a91d0f4e9c1c44540efff1e4393064d8faad3"
         },
         {
+            "file": "chipped-fabric-1.21.1-4.0.2.jar",
+            "sha256": "1721c94365fd8d2d3c3fdcac7efbfd7e605daa7dfb8adc4c126c5bbde2820c79"
+        },
+        {
             "file": "citresewn-1.2.2+1.21.jar",
             "sha256": "27f960a57597539cb8dfdd7a926268a123177322b14bea113415a56825c01776"
         },
@@ -72,6 +84,18 @@
         {
             "file": "Clumps-fabric-1.21.1-19.0.0.1.jar",
             "sha256": "49e406cb2872e24a2d2dbe461b93f0c8fbee1748d14c2a941e54f785e3a1e1a7"
+        },
+        {
+            "file": "CobbleFurnies-fabric-0.6.3.jar",
+            "sha256": "dd8f3bb8bcdc5968a559f9cc5ee98bb7e5fd1a479012bb1c4c8917254a233472"
+        },
+        {
+            "file": "CobblemonMoveInspector-fabric-1.3.0.jar",
+            "sha256": "bfeefb3293bb3d594a95a4be594d97acd22db2637030046c61f20e6fa257f951"
+        },
+        {
+            "file": "cobblemon_smartphone-fabric-1.0.5.jar",
+            "sha256": "d2ff6291a84ed0463697fac2d4d9066d89ed3133b63b13ac3a6e9b12d7fbbe15"
         },
         {
             "file": "craftingtweaks-fabric-1.21.1-21.1.6.jar",
@@ -146,8 +170,12 @@
             "sha256": "e3fae8e321474a35e94f9bb09eafd0440ce0fe98f4aebbc067e392889700a4fa"
         },
         {
-            "file": "gravestones-1.2.6+1.21.1+A.jar",
-            "sha256": "386e3155460dd70cf4cdc2ab154ad3bc0aec1b1b3102590f08d9c910ecbd3f08"
+            "file": "geckolib-fabric-1.21.1-4.8.2.jar",
+            "sha256": "a70c334830decbb9d7cb88478a49d19d6ce823ba3356ca62034a445fef3c2d04"
+        },
+        {
+            "file": "graves-3.4.4+1.21.jar",
+            "sha256": "3b46ddc0911b8bfc2ba6eabae03f7071afee8b5816a3f11104d7899073a023d3"
         },
         {
             "file": "ImmediatelyFast-Fabric-1.6.7+1.21.1.jar",
@@ -200,6 +228,10 @@
         {
             "file": "language-reload-1.7.5+1.21.1.jar",
             "sha256": "ce0905de8bdcaf50688d80c84374d23b010fd8ded0cfa2c6b0f8b30469183b64"
+        },
+        {
+            "file": "LegendaryMonuments-7.4.jar",
+            "sha256": "19dcdab4d37e1461b0eb3f150bbb0b90b553afea98e560c5f315d7e0d8c5818a"
         },
         {
             "file": "letmedespawn-1.21.x-fabric-1.5.0.jar",
@@ -270,6 +302,10 @@
             "sha256": "932e9f48506c6258f9215a243049076fbc9e72c3f42284115d59f65696c20be8"
         },
         {
+            "file": "playerxp-fabric-1.0.3+1.21.1.jar",
+            "sha256": "d67476f77a97ac34798898a3d63819dc63bcdd94f1c8d2cc0f31545ff25801dd"
+        },
+        {
             "file": "pneumonocore-1.2.0+1.21.1.jar",
             "sha256": "df3a0c9e88adb61824ab2d636cb1e4258a7d10de7147f0c55be1a62c397f1e42"
         },
@@ -286,8 +322,16 @@
             "sha256": "b42fc0424050f076c8e1f77b7549e48ec6e07605fbf868ed5d0ef47848665dd2"
         },
         {
+            "file": "resourcefullib-fabric-1.21-3.0.12.jar",
+            "sha256": "93064c5aff85bf5e6385470f311fd1c7de172f58b02fefb1d2920db76f8cd8b5"
+        },
+        {
             "file": "shulkerboxtooltip-fabric-5.1.8+1.21.1.jar",
             "sha256": "5d397ed1eabc7b6b77e2ca09565c6a01427dc7984fb39a46f560c286c1ab8961"
+        },
+        {
+            "file": "SimpleTMs-fabric-2.2.1.jar",
+            "sha256": "0cf711b8fe01487ecdeb1b330940666a5733f372823c0df9cadbc440af78aaad"
         },
         {
             "file": "sodium-extra-fabric-0.6.0+mc1.21.1.jar",
@@ -318,12 +362,20 @@
             "sha256": "034f97d5e787202434f584f0ee3625943644aefe76564a5e24ff32bbe6c3faf4"
         },
         {
+            "file": "spawnnotification-fabric-1.7.1-2.1.0.jar",
+            "sha256": "8012f12090518f8750c1b49cc7f7dabfdc923a01050216b0d3c7db47649abd5a"
+        },
+        {
             "file": "stendhal-1.4.1-1.21.jar",
             "sha256": "24af53ab62c92a2db09434a0ce3a6361208f433f42a8929d847171fa4ca870dd"
         },
         {
             "file": "swingthrough-1.0.5+1.21.jar",
             "sha256": "0c29ce4166261f3f995a3a9c47753050983662a4086846ed524a1fe2ecd13353"
+        },
+        {
+            "file": "timcore-fabric-1.7.1-1.26.1.jar",
+            "sha256": "369ae5a64f7bbe06d480279ff487e4bec0452dfe1fa42f99d15e274786fda3ad"
         },
         {
             "file": "tipsmod-fabric-1.21.1-21.1.3.jar",
@@ -340,6 +392,14 @@
         {
             "file": "travelersbackpack-fabric-1.21.1-10.1.29.jar",
             "sha256": "315040b1f3845d6079b266fef90801870df52ad16e21ab029cb1857b29d2e9dc"
+        },
+        {
+            "file": "trinkets-3.10.0.jar",
+            "sha256": "349fd2aa8930b232050ee5304db55e4ef738b017971afe7c84acd589a95fda2f"
+        },
+        {
+            "file": "UltraBeasts-2.1+Cobblemon-1.7.1.jar",
+            "sha256": "05e8e386e0c47032fd6f767acaac21e31455fde66e8c40a98532fbd6f056a926"
         },
         {
             "file": "UniLib-1.2.0+1.21.1-fabric.jar",
@@ -371,6 +431,10 @@
         }
     ],
     "resourcepacks": [
+        {
+            "file": "ATM x MSD [3.0.1].zip",
+            "sha256": "a6e1ae328b4b51bd710619b8297c6a183e77d3a8177f2d18f317d3464629363c"
+        },
         {
             "file": "Better-Leaves-9.4.zip",
             "sha256": "e23bdbc29db70b41e3f561dfce43dfc97b2bce3fc8857d5aae08d8557111190d"
