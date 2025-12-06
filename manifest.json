@@ -90,6 +90,10 @@
             "sha256": "dd8f3bb8bcdc5968a559f9cc5ee98bb7e5fd1a479012bb1c4c8917254a233472"
         },
         {
+            "file": "cobblemonarmory-1.4.4-fabric-1.21.1.jar",
+            "sha256": "199a06d1c867732a5c0735f76f8ab1973c0363c2ad797e9df2fe7901753ef215"
+        },
+        {
             "file": "CobblemonMoveInspector-fabric-1.3.0.jar",
             "sha256": "bfeefb3293bb3d594a95a4be594d97acd22db2637030046c61f20e6fa257f951"
         },
@@ -108,6 +112,10 @@
         {
             "file": "dynamiccrosshair-9.10+1.21.1-fabric.jar",
             "sha256": "962a58083336b6ecb27041cfe2635999177c2c034120576837114ee86fe44895"
+        },
+        {
+            "file": "elevatorid-fabric-1.21-1.11.1.jar",
+            "sha256": "71e2cd195d980dff01e22f94c1e8a6c78d8da123399761e7b009f87edf4ceed9"
         },
         {
             "file": "emi-1.1.22+1.21.1+fabric.jar",
@@ -332,6 +340,10 @@
         {
             "file": "SimpleTMs-fabric-2.2.1.jar",
             "sha256": "0cf711b8fe01487ecdeb1b330940666a5733f372823c0df9cadbc440af78aaad"
+        },
+        {
+            "file": "sleep-v3.3.2.jar",
+            "sha256": "aa2d4216b624e040069fd08fbc7ff400f5ca10d121f08f787cfafd2876007bb1"
         },
         {
             "file": "sodium-extra-fabric-0.6.0+mc1.21.1.jar",
